@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="com.typesafe.akka_akka-camel_2.10.0-M7_2.1-M2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-camel_2.10.0-M7/bundles/akka-camel_2.10.0-M7-2.1-M2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-camel_2.10.0-M7/docs/akka-camel_2.10.0-M7-2.1-M2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-camel_2.10.0-M7/srcs/akka-camel_2.10.0-M7-2.1-M2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
